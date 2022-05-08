@@ -1,3 +1,12 @@
+/**
+ * @file 1015.cpp
+ * @author Oziel Ferreira da Silva
+ * @version 0.1
+ * @date 2022-05-08
+ *
+ * @copyright Copyright (c) 2022
+ *
+ */
 #include <stdio.h>
 int main() {
   double a(.0), b(.0), c(.0), d(.0), _temp(.0), _sqrt(.0);

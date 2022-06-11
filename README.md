@@ -1,13 +1,13 @@
----
-__Avisos__ 🥱:
+# Welcome to my solutions in [Beecrowd](https://www.beecrowd.com.br/)
 
-- As respostas podem não ótimas, mas são respostas aceitas pelos casos de testes de cada um dos problemas.
-- Não copie do meu código.
-- O código foi apenas parcialmente documentado.
+## __Warnings__  
 
----
+- The solutions may not be the best, but they're accepted by the test cases of each one of the problems.
+- Don't copy my code, do it yourself, you can use mine as reference.
+- The code was partially documented.
 
-Exemplo de resposta (Problema #1000):
+Solution Example (Problem #1000):
+
 ```cpp
 #include <stdio.h>
 int main() {
@@ -16,4 +16,4 @@ int main() {
 }
 ```
 
-(C) 2022 por Oziel Ferreira da Silva.
+&copy; 2022 por Oziel Ferreira da Silva.
